@@ -5,6 +5,8 @@ Make nodes and edges through an interactive GUI:
 
 
 Controls:
+
 Create a Node: Clic
+
 Create an edge: Hover over a node and press any key, then unpress it at another node (or the same node)
 
